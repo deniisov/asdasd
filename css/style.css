@@ -3,6 +3,10 @@ body {
   font-family: "Patrick Hand", cursive;
 }
 
+html{
+  scroll-behavior:smooth;
+}
+
 @media (max-width: 930px) {
   body.lock {
     overflow: hidden;
