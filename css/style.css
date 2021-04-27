@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: "Patrick Hand", cursive;
+  font-family: "Balsamiq Sans", cursive;
 }
 
 html{
@@ -178,6 +178,7 @@ img {
 }
 
 .presentation__title {
+  font-family: "Patrick Hand";
   text-align: center;
   font-size: 90px;
   color: #fff;
@@ -289,7 +290,7 @@ img {
 }
 
 .orange__info-text {
-  font-size: 30px;
+  font-size: 25px;
   color: #882029;
   line-height: 45px;
   padding-bottom: 30px;
@@ -301,7 +302,7 @@ img {
 
 @media (max-width: 768px) {
   .orange__info-text {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 
@@ -431,7 +432,7 @@ img {
 }
 
 .blue__info-text {
-  font-size: 30px;
+  font-size: 25px;
   color: #43525d;
   line-height: 45px;
   padding-bottom: 30px;
@@ -443,7 +444,7 @@ img {
 
 @media (max-width: 768px) {
   .blue__info-text {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 
