@@ -183,6 +183,7 @@ img {
   font-size: 90px;
   color: #fff;
   margin-top: 90px;
+  cursor: default;
 }
 
 @media (max-width: 490px) {
@@ -672,6 +673,8 @@ img {
 .footer__content-title {
   font-size: 48px;
   color: #fff;
+  font-family: "Patrick Hand";
+  cursor: default;
 }
 
 @media (min-width: 769px) {
